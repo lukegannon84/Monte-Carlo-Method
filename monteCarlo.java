@@ -1,4 +1,4 @@
-import java.util.Random;			//Luke Bentaher 2808039
+import java.util.Random;			
 	import java.util.*;
 	class monteCarlo{
 
